@@ -7,4 +7,5 @@
 	url = https://github.com/8bit-pixies/ramble
 [submodule "binst"]
 	path = binst
-	url = https://github.com/cran/binst
+	url = https://github.com/8bit-pixies/binst
+	subdir = R
